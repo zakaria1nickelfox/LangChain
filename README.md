@@ -8,8 +8,8 @@ then pip install -r req.txt
 create .env file and 
 
 GOOGLE_API_KEY=
-"AfnkwnkwfwzaSyA-oVLai5voizRhG8D2wvaqe"
+"AfnkwnkwfwzaSyA-oVLai5voizRhG8D2wvaqebcsbjcdbcje"
 
-HUGGINGFACEHUB_API_TOKEN = "hf_gFcCdmalmdlZLpf23TfnwktfcSXqFMv"
+HUGGINGFACEHUB_API_TOKEN = "hf_gFcCdmalxjbjwbcjbckbwkbcjwmdlZLpf23TfnwktfcSXqFMv"
 
 then app is ready 
