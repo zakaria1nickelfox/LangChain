@@ -14,3 +14,9 @@ numpy
 scikit-learn
 transformers 
 pydantic
+
+langchain_text_splitters
+
+langchain-text-splitters
+unstructured
+markdown
