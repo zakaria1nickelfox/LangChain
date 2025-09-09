@@ -32,6 +32,6 @@ tempate= PromptTemplate(
 
 chain = tempate | model |parser
 
-result=chain.invoke({"Place":"Russia"})
+result=chain.invoke({"Place":"Paris"})
 
 print(result.json())
